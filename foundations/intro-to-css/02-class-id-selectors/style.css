@@ -1,5 +1,5 @@
 p {
-    background-color: pink;
+    background-color: pink; font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 #line2 {
@@ -7,7 +7,7 @@ p {
 }
 
 #line4 {
-    background-color: greenyellow;
+    background-color: greenyellow; font-weight: bold;
 }
 
 .size-buds {
